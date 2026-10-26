@@ -5,7 +5,7 @@
  * Tested up to:      7.1.3
  * Requires at least: 6.5
  * Requires PHP:      8.0
- * Version:           1.0.0.2
+ * Version:           1.0.0.8
  * Author:            Nathan Foley
  * Author URI:        https://reallyusefulplugins.com
  * License:           GPL2
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 define( 'UUPD_TDLAB_EXAMPLE_PLUGIN_VENDOR', 'tdlab' );
-define('UUPD_TDLAB_EXAMPLE_PLUGIN_VERSION', '1.0.0.2');
+define('UUPD_TDLAB_EXAMPLE_PLUGIN_VERSION', '1.0.0.8');
 define( 'UUPD_TDLAB_EXAMPLE_PLUGIN_MAIN_FILE', __FILE__ );
 define( 'UUPD_TDLAB_EXAMPLE_PLUGIN_ITEM_NUMBER', 296 );
 define( 'UUPD_TDLAB_EXAMPLE_PLUGIN_FRIENDLY_NAME', 'Example Plugin' );

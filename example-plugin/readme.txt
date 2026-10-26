@@ -2,7 +2,7 @@
 Tags: wordpress,edd,software-licensing,uupd
 Requires at least: 6.5
 Tested up to: 7.1.3
-Stable tag: 1.0.0.2
+Stable tag: 1.0.0.8
 Requires PHP: 8.0
 
 This is just an example plugin to test updates
